@@ -1,0 +1,21 @@
+# Django 项目忽略项
+*.pyc
+__pycache__/
+db.sqlite3
+*.sqlite3
+*.log
+*.pot
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.eggs/
+*.coverage
+.coverage.*
+.cache
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.DS_Store
+*.env
